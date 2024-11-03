@@ -1,0 +1,18 @@
+[submodule "plugins/tmux-power"]
+	path = plugins/tmux-power
+	url = https://git::@github.com/wfxr/tmux-power
+[submodule "plugins/tmux-powerline"]
+	path = plugins/tmux-powerline
+	url = https://git::@github.com/erikw/tmux-powerline
+[submodule "plugins/tmux-prefix-highlight"]
+	path = plugins/tmux-prefix-highlight
+	url = https://git::@github.com/tmux-plugins/tmux-prefix-highlight
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://git::@github.com/tmux-plugins/tmux-sensible
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://git::@github.com/tmux-plugins/tpm
+[submodule "plugins/vim-tmux-navigator"]
+	path = plugins/vim-tmux-navigator
+	url = https://git::@github.com/christoomey/vim-tmux-navigator
