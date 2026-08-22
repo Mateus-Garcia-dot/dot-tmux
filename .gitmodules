@@ -13,3 +13,6 @@
 [submodule "plugins/smart-splits.nvim"]
 	path = plugins/smart-splits.nvim
 	url = https://github.com/mrjones2014/smart-splits.nvim
+[submodule "tmux-urlview"]
+    path = tmux-urlview
+    url = https://github.com/tmux-plugins/tmux-urlview.git
