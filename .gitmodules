@@ -10,6 +10,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = https://git::@github.com/tmux-plugins/tpm
-[submodule "plugins/vim-tmux-navigator"]
-	path = plugins/vim-tmux-navigator
-	url = https://git::@github.com/christoomey/vim-tmux-navigator
+[submodule "plugins/smart-splits.nvim"]
+	path = plugins/smart-splits.nvim
+	url = https://github.com/mrjones2014/smart-splits.nvim
